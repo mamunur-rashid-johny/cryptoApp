@@ -11,11 +11,11 @@ A simple two-screen Android app built using Kotlin and Jetpack Compose that allo
 
 ### Home Screen - Cryptocurrency List
 
-![List of Crypto Currency](/home/mamunur-rashid/Playground/JCPractice/assets/app_screen_shot_01.jpg)
+![List of Crypto Currency](./assets/app_screen_shot_01.jpg)
 
 ### Details Screen - Price Changes Line Chart
 
-![Details Screen of a Selected Crypto](/home/mamunur-rashid/Playground/JCPractice/assets/app_screen_shot_02.jpg)
+![Details Screen of a Selected Crypto](./assets/app_screen_shot_02.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ A simple two-screen Android app built using Kotlin and Jetpack Compose that allo
 
 Watch the app in action:
 
-[![App Video](/home/mamunur-rashid/Playground/JCPractice/assets/app_screen_record.mp4)](video/demo.mp4)
+[![App Video](./assets/app_screen_record.mp4)](video/demo.mp4)
 
 ---
 
