@@ -2,7 +2,7 @@
 
 A simple two-screen Android app built using Kotlin and Jetpack Compose that allows users to:
 1. View a list of cryptocurrencies on the first screen.
-2. See detailed information about a selected cryptocurrency, including a price changes line chart, on the second screen.
+2. See detailed information about a selected cryptocurrency on the second screen, including a price changes line chart.
 3. Navigate seamlessly between screens with **adaptive navigation** for a responsive and consistent user experience.
 
 ---
@@ -24,6 +24,9 @@ A simple two-screen Android app built using Kotlin and Jetpack Compose that allo
 Watch the app in action:
 
 [![App Video](./assets/app_screen_shot_01.jpg](https://github.com/mamunur-rashid-johny/cryptoApp/blob/main/assets/app_screen_record.mp4)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://github.com/mamunur-rashid-johny/cryptoApp/blob/main/assets/app_screen_record.mp4)
+
 
 ---
 
