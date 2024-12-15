@@ -23,7 +23,7 @@ A simple two-screen Android app built using Kotlin and Jetpack Compose that allo
 
 Watch the app in action:
 
-[![App Video](./assets/app_screen_record.mp4)](video/demo.mp4)
+[![App Video](./assets/app_screen_shot_01.jpg](./assets/app_screen_record.mp4)
 
 ---
 
