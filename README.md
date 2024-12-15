@@ -20,10 +20,9 @@ A simple two-screen Android app built using Kotlin and Jetpack Compose that allo
 ---
 
 ## App Video
+https://github.com/user-attachments/assets/164b2149-9e8d-4820-935a-a4940b378113
 
-Watch the app in action:
 
-[![App Video]](https://github.com/mamunur-rashid-johny/cryptoApp/blob/main/assets/app_screen_shot_01.jpg)](https://github.com/mamunur-rashid-johny/cryptoApp/blob/main/assets/app_screen_record.mp4)
 
 
 ---
