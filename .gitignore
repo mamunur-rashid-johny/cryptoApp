@@ -1,0 +1,50 @@
+# Android Studio specific files
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+.idea/**/vcs.xml
+.idea/misc.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android specific files
+*.iml
+*.hprof
+
+# IntelliJ IDEA specific files
+out/
+
+# Generated files
+captures/
+output.json
+
+# Crashlytics and Firebase
+crashlytics.properties
+fabric.properties
+firebaseappindexing.config.json
+
+# Other files
+*.apk
+*.ap_
+*.db
+*.cxx/
+*.so
+*.stacktrace
+*.cls
+*.sublime-workspace
+*.sublime-project
+*.swp
+
+# App build artifacts
+app/build/
+
+# NDK build folders
+.externalNativeBuild/
+
+# Other OS generated files
+.DS_Store
+Thumbs.db

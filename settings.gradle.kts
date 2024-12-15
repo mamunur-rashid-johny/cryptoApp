@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JCPractice"
+rootProject.name = "CryptoApp"
 include(":app")
  
