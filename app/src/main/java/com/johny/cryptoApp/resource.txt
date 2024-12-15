@@ -1,0 +1,27 @@
+Here Some of The Resource Link for Further Study
+
+##Youtube Link For Learning##
+1.ObserveAsEvents In Detail: https://youtu.be/njchj9d_Lf8?si=YnXMR-ug0qKSSZfA
+2.Initial Data Loading Debate: https://youtu.be/mNKQ9dc1knI?si=D_KrF1alIi2Fepxl
+3.Generic Result Wrapper: https://www.youtube.com/watch?v=MiLN2vs2Oe0
+4.Catching CancellationException: https://youtu.be/VWlwkqmTLHc?si=KGa_GMuFrJx-ghQI
+5.Clone or download the initial source code for this project here:https://github.com/philipplackner/CryptoTracker/tree/initial
+6.Jetpack Compose Crash Course: https://www.youtube.com/watch?v=6_wK_Ud8--0
+7.Material3 Theme Generator: https://material-foundation.github.io/material-theme-builder/
+8.CoinCap API: https://docs.coincap.io/
+
+##Blog##
+Cubic Bezier Smooth Curves Blog: https://exploringswift.com/blog/Drawing-Smooth-Cubic-Bezier-Curve-through-prescribed-points-using-Swift
+
+
+
+
+
+
+
+###Youtube Link on Dependency Injection With Koin###
+1. https://www.youtube.com/watch?v=EathumJlWh8 [Philipp Lackner]
+2. https://www.youtube.com/watch?v=RA3zWRjodHY [Ahmed Guedmioui]
+3. https://www.youtube.com/watch?v=ESjH8PsCh1w&list=PL4EnMCc01RC0zBZqQzw3y-Xl9lP6dTHVV [Play List [P.S.]]
+4. https://www.youtube.com/watch?v=N7ehjK8pxgI
+5. https://www.youtube.com/watch?v=BxsSakxf3uw
