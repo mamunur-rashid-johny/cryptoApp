@@ -20,7 +20,8 @@ A simple two-screen Android app built using Kotlin and Jetpack Compose that allo
 ---
 
 ## App Video
-https://github.com/user-attachments/assets/164b2149-9e8d-4820-935a-a4940b378113
+[![Demo Video](./assets/app_screen_shot_02.jpg)](https://github.com/user-attachments/assets/164b2149-9e8d-4820-935a-a4940b378113)
+
 
 
 
